@@ -1,0 +1,7 @@
+interface:
+  display_name: "MicroWIN SMART PLC编写与恢复"
+  short_description: "编写和修改可维护梯形图，保留库与参数并执行原生离线验收"
+  default_prompt: "Use $microwin-smart-plc-recovery to write, modify, or repair this PLC program and verify the native ladder deliverable."
+
+policy:
+  allow_implicit_invocation: true
